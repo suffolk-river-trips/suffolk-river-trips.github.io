@@ -1,8 +1,9 @@
 // Callout
 .callout {
+  min-height: 70%;
   padding: 15rem 0;
   background: linear-gradient(0deg, fade-out($white, 0.0) 0%, fade-out($white, 0.9) 100%), url('../img/Reed-beds-Iken.jpeg');
-  background-position: bottom center;
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   h2 {

@@ -91,7 +91,7 @@ h6 {
   display: table;
   width: 100%;
   height: auto;
-  padding-top: 8rem;
+  padding-top: 4rem;
   padding-bottom: 8rem;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Sea-Tradar-Snape.jpeg");
   background-position: top center;
@@ -100,7 +100,7 @@ h6 {
 }
 
 .masthead h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   margin: 0;
   padding: 0;
 }
@@ -205,9 +205,10 @@ h6 {
 }
 
 .callout {
+  min-height: 70%;
   padding: 15rem 0;
   background: linear-gradient(0deg, white 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Reed-beds-Iken.jpeg");
-  background-position: bottom center;
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
