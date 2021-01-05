@@ -206,10 +206,10 @@ h6 {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Orford-sunset.jpeg");
+  background: linear-gradient(0deg, white 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Reed-beds-Iken.jpeg");
   background-position: bottom center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 .callout h2 {
